@@ -1,18 +1,7 @@
-## Getting Started
+# BancoNoConsole
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Fiz o que foi solicitado, um Banco através do console em Java.
+Fiz alguns tratamentos de erros também para evitar que o usuário digite de forma indesejada, e caso ele digite errado tenha a oportunidade de ajeitar (loop)
+De resto está igual ao solicitado
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+tenho plena noção de que falta verificar vazios nos outros System.out.print, mas eu fiz um código mais enxuto testando jeitos diferentes de verificação de erro
